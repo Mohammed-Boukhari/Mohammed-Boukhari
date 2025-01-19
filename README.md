@@ -1,8 +1,8 @@
 # Hello World!, I'm mohamed, a fullstack Developer 👋🏼:
 
-🛜 currently working <br>
-👨🏼‍🎓 studying media <br>
-👨🏼‍💻 working as a web developer since 2025
+° 🧠 Every coding problem is a chance for creativity\
+° ✨ The magic of code starts here\
+° 🖥️ Living for innovative programming\
 
 # 💻 Tech Stack:
 
