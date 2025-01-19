@@ -1,4 +1,4 @@
-# Hello World!, I'm mohamed, a fullstack Developer 👋🏼:
+# Hello World!👋🏼 , I'm mohamed, a fullstack Developer 
 
 ° 🧠 Every coding problem is a chance for creativity\
 ° ✨ The magic of code starts here\
