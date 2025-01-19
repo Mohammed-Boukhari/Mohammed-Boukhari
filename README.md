@@ -1,6 +1,8 @@
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm mohamed, a fullstack Developer 👋🏼:
 
-🛜 currently working <br>👨🏼‍🎓 studying media <br>👨🏼‍💻 working as a web developer since 2025
+🛜 currently working <br>
+👨🏼‍🎓 studying media <br>
+👨🏼‍💻 working as a web developer since 2025
 
 # 💻 Tech Stack:
 
