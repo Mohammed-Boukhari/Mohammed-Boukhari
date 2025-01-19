@@ -2,7 +2,7 @@
 
 ° 🧠 Every coding problem is a chance for creativity\
 ° ✨ The magic of code starts here\
-° 🖥️ Living for innovative programming\
+° 🖥️ Living for innovative programming
 
 # 💻 Tech Stack:
 
